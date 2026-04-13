@@ -125,4 +125,4 @@ João Victor de Sousa Pinto
 ## Link do repositório público
 Substitua este campo após publicar no GitHub:
 
-`SEU_LINK_DO_REPOSITORIO_PUBLICO_AQUI`
+`[SEU_LINK_DO_REPOSITORIO_PUBLICO_AQUI](https://github.com/JoaoV-dev1/Controle_de_estudo.git)`
