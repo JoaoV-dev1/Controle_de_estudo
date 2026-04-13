@@ -1,3 +1,4 @@
+![CI](https://github.com/JoaoV-dev1/Controle_de_estudo.git/actions/workflows/ci.yml/badge.svg)
 # Controle de Estudos CLI
 
 Versão atual: **1.0.0**
@@ -54,8 +55,8 @@ controle-estudos/
 ## Instalação
 1. Clone o repositório:
 ```bash
-git clone SEU_LINK_DO_GITHUB
-cd controle-estudos
+git clone https://github.com/JoaoV-dev1/Controle_de_estudo.git
+cd controle_de_estudo
 ```
 
 2. Crie e ative um ambiente virtual:
