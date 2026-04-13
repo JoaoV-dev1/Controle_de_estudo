@@ -123,6 +123,4 @@ Versão atual: **1.0.0**
 João Victor de Sousa Pinto
 
 ## Link do repositório público
-Substitua este campo após publicar no GitHub:
-
 `https://github.com/JoaoV-dev1/Controle_de_estudo.git`
