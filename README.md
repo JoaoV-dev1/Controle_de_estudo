@@ -81,7 +81,8 @@ pip install -r requirements.txt
 ## Execução
 Execute o projeto com:
 ```bash
-python src/main.py
+$env:PYTHONPATH="src"
+python -m controle_estudos.cli
 ```
 
 ## Como usar
