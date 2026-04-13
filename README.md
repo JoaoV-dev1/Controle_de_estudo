@@ -1,4 +1,4 @@
-![CI](https://github.com/JoaoV-dev1/Controle_de_estudo.git/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/JoaoV-dev1/Controle_de_estudo/actions/workflows/ci.yml/badge.svg)
 # Controle de Estudos CLI
 
 Versão atual: **1.0.0**
