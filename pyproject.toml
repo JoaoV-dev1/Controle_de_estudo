@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "controle-estudos-cli"
+version = "1.0.0"
+description = "Aplicação CLI em Python para controle de estudos."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "João Victor de Sousa Pinto" }
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
